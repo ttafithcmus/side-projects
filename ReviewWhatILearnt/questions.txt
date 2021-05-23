@@ -1,0 +1,2 @@
+How many components does a computer has?|1 2 5 4|3
+How many binary digits does a byte has?|9 10 5 8|4
